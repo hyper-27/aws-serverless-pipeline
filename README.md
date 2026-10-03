@@ -10,13 +10,13 @@ An offline, zero-cost AWS serverless architecture simulating a real-world docume
 
 ## Proof of Work
 ### 1. S3 Bucket Upload
-[Insert your terminal screenshot showing the s3 ls command and uploaded file here]
-
 ### 2. Lambda Execution Logs
-[Insert your terminal screenshot showing the logs tail command with successful execution here]
+<img width="1635" height="900" alt="image" src="https://github.com/user-attachments/assets/35bd1c60-d492-4d55-9791-a71aeb544688" />
+
 
 ### 3. DynamoDB State Persistence
-[Insert your terminal screenshot showing the dynamodb scan command with the saved metadata here]
+<img width="1650" height="581" alt="image" src="https://github.com/user-attachments/assets/b5986548-e674-414a-9d0f-e25a1e748bfb" />
+
 
 ## Local Deployment
 1. Start the LocalStack container: `docker compose up -d`
